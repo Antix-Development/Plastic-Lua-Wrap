@@ -1,0 +1,22 @@
+{
+    "name": "plasticluawrap",
+    "displayName": "PlasticLuaWrap",
+    "description": "Sort of a Plastic Code Wrap color theme for Lua in VSCode",
+    "version": "1.0.0",
+    "publisher": "antix development",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "PlasticLuaWrap",
+                "uiTheme": "vs-dark",
+                "path": "./themes/PlasticLuaWrap-color-theme.json"
+            }
+        ]
+    }
+}
