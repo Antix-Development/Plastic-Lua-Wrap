@@ -4,7 +4,7 @@
     "description": "Sort of a Plastic Code Wrap color theme for Lua in VSCode",
     "version": "1.0.0",
     "publisher": "antix development",
-    "icon": "res/icon.png",
+    "icon": "https://github.com/Antix-Development/Plastic-Lua-Wrap/blob/master/res/icon.png",
     "engines": {
         "vscode": "^1.52.0"
     },
