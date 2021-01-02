@@ -21,10 +21,12 @@ Optionally you can grab the fantastic [Install .VSIX](https://marketplace.visual
 
 <br>
 
+## Usage
+Once Plastic Lua Wrap is installed, you can activate its color theme by clicking the *"Set Color Theme"* button in the extensions info screen, which can be accessed by selecting *"View > Extensions"* or press *"CTRL + SHIFT + X"*, then locating and clicking on the Plastic Lua Wrap extension in the extension panel.
+
+Optionally you can use the *"File > Preferences > Color Theme"* menu option and select *"PlasticLuaWrap"* from the list of instaled color themes.
+
+<br>
+
 ## Help and Bugs
-Feel free to open an issue if you have issues or questions just head on over to [issues page](https://github.com/Antix-Development/Plastic-Lua-Wrap/issues) on the Plastic Lua Wrap repository.
-
-
-
-
-
+Feel free to open an issue if you have issues or questions just head on over to the [issues page](https://github.com/Antix-Development/Plastic-Lua-Wrap/issues) on the Plastic Lua Wrap repository.
