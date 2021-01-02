@@ -3,4 +3,3 @@
 .vscode-test/**
 .gitignore
 test.lua
-*.vsix
