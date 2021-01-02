@@ -4,6 +4,10 @@ Plastic Lua Wrap is Lua syntax color theme for VSCode, similar to Plastic Code W
 
 Plastic Lua Wrap is a modified version of the [Plastic Code Wrap](https://marketplace.visualstudio.com/items?itemName=thunderblaster.theme-plasticcodewrap) color theme by Zack Reithmeyer, which is its self an unofficial port of [Plastic Code Wrap](https://github.com/joedf/PlasticCodeWrap) by Joe DF, which strangely enough is yet another port of the PlasticCodeWrap color theme from textMate, which I am unable to find a link to.
 
+## Preview
+This is what your Lua code will look like with the Plastic Lua Wrap color theme enabled...
+![preview]: https://github.com/Antix-Development/Plastic-Lua-Wrap/tree/master/res/preview.png
+
 ## Installation
 
 From a terminal window, cd to the folder where the extensions .vsix file is located and execute the following command...
