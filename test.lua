@@ -23,15 +23,9 @@ local foo = Foo.new() -- Let's make foo!
 
 local rng, cos = math.random, math.cos -- Localize these
 
-local n = foo:bar(rng(1, 15)) -- Bar tha foo!
+local n = foo:bar(rng(1, 15)) -- Bar that foo!
 
-n = n * 5 -- Operators
-n = n - 4
-n = n / 6
-
--- 
 -- Now for the actual Gideros API!!!
--- 
 
 local t = Texture.new('test.png')
 
