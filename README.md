@@ -6,7 +6,7 @@ Plastic Lua Wrap is a modified version of the [Plastic Code Wrap](https://market
 
 ## Preview
 This is what your Lua code will look like with the Plastic Lua Wrap color theme enabled...
-![preview]: https://github.com/Antix-Development/Plastic-Lua-Wrap/tree/master/res/preview.png
+![preview](https://github.com/Antix-Development/Plastic-Lua-Wrap/tree/master/res/preview.png)
 
 ## Installation
 
