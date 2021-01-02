@@ -9,8 +9,6 @@ This is what your Lua code will look like with the Plastic Lua Wrap color theme 
 
  ![Plastic Code Wrap](https://github.com/Antix-Development/Plastic-Lua-Wrap/raw/master/res/preview.png)
 
-<br>
-
 ## Installation
 
 From a terminal window, cd to the folder where the extensions .vsix file is located and execute the following command...
