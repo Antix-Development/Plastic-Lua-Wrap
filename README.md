@@ -1,3 +1,4 @@
+![icon](https://github.com/Antix-Development/Plastic-Lua-Wrap/blob/master/res/icon.png)
 
 # Plastic Lua Wrap
 
