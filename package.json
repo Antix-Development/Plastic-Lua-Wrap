@@ -2,7 +2,7 @@
     "name": "plasticluawrap",
     "displayName": "PlasticLuaWrap",
     "description": "Sort of a Plastic Code Wrap color theme for Lua in VSCode",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "antixdevelopment",
     "icon": "res/icon.png",
     "license": "SEE LICENSE IN License.txt",

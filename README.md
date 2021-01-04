@@ -9,14 +9,6 @@ This is what your Lua code will look like with the Plastic Lua Wrap color theme 
 
  ![Plastic Code Wrap](https://github.com/Antix-Development/Plastic-Lua-Wrap/raw/master/res/preview.png)
 
-## Installation
-
-From a terminal window, cd to the folder where the extensions .vsix file is located and execute the following command...
-
-    code --install-extension plasticluawrap-1.0.0.vsix
-
-Optionally you can grab the fantastic [Install .VSIX](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-install-vsix) extension by [Fabio Spampinato](https://marketplace.visualstudio.com/publishers/fabiospampinato), then right-click the extension and install directly from the context menu inside VSCode.
-
 ## Usage
 Once Plastic Lua Wrap is installed, you can activate its color theme by clicking the *"Set Color Theme"* button in the extensions info screen, which can be accessed by selecting *"View > Extensions"* or press *"CTRL + SHIFT + X"*, then locating and clicking on the Plastic Lua Wrap extension in the extension panel.
 
