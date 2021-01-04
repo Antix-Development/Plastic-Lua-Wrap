@@ -48,15 +48,13 @@
 				"foreground": "#ffb454"
 			}
 		},
-
     {
 			"name": "storage.modifier.local.lua",
 			"scope": "storage.modifier.local.lua",
 			"settings": {
-				"foreground": "#0000FF"
+				"foreground": "#FFAA00"
 			}
     },
-
     {
 			"name": "meta.function.lua",
 			"scope": "meta.function.lua",
